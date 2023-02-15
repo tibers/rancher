@@ -92,9 +92,9 @@ require (
 	github.com/pborman/uuid v1.2.0
 	github.com/pkg/errors v0.9.1
 	github.com/prometheus-operator/prometheus-operator/pkg/apis/monitoring v0.44.1
-	github.com/prometheus/client_golang v1.9.0
+	github.com/prometheus/client_golang v1.11.1
 	github.com/prometheus/client_model v0.2.0
-	github.com/prometheus/common v0.15.0
+	github.com/prometheus/common v0.26.0
 	github.com/rancher/aks-operator v1.0.1-rc8
 	github.com/rancher/apiserver v0.0.0-20210519053359-f943376c4b42
 	github.com/rancher/channelserver v0.5.1-0.20210421200213-5495c5f6e430
@@ -137,7 +137,6 @@ require (
 	golang.org/x/net v0.0.0-20210315170653-34ac3e1c2000
 	golang.org/x/oauth2 v0.0.0-20201208152858-08078c50e5b5
 	golang.org/x/sync v0.0.0-20201207232520-09787c993a3a
-	golang.org/x/sys v0.0.0-20210315160823-c6e025ad8005 // indirect
 	golang.org/x/text v0.3.5 // indirect
 	google.golang.org/api v0.40.0
 	google.golang.org/genproto v0.0.0-20210315173758-2651cd453018 // indirect
